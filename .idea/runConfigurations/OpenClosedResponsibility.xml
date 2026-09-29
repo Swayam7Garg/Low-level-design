@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OpenClosedResponsibility" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="SOLID.opencloseresponsibility.OpenClosedResponsibility" />
+    <module name="LLD" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\swaya\.jdks\ms-17.0.20.1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

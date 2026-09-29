@@ -1,0 +1,13 @@
+# Compiled output
+out/
+*.class
+
+# IntelliJ
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/queries/
+
+# OS
+.DS_Store
+Thumbs.db
